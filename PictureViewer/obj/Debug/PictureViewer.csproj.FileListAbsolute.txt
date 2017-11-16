@@ -1,0 +1,9 @@
+D:\MyProjects\Cpp\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe.config
+D:\MyProjects\Cpp\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe
+D:\MyProjects\Cpp\PictureViewer\PictureViewer\bin\Debug\PictureViewer.pdb
+D:\MyProjects\Cpp\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csprojResolveAssemblyReference.cache
+D:\MyProjects\Cpp\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Properties.Resources.resources
+D:\MyProjects\Cpp\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.GenerateResource.Cache
+D:\MyProjects\Cpp\PictureViewer\PictureViewer\obj\Debug\PictureViewer.exe
+D:\MyProjects\Cpp\PictureViewer\PictureViewer\obj\Debug\PictureViewer.pdb
+D:\MyProjects\Cpp\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Form1.resources

@@ -1,0 +1,8 @@
+D:\MyProjects\Cpp\PictureViewer\PictureViewer\bin\Release\PictureViewer.exe.config
+D:\MyProjects\Cpp\PictureViewer\PictureViewer\bin\Release\PictureViewer.exe
+D:\MyProjects\Cpp\PictureViewer\PictureViewer\bin\Release\PictureViewer.pdb
+D:\MyProjects\Cpp\PictureViewer\PictureViewer\obj\Release\PictureViewer.Form1.resources
+D:\MyProjects\Cpp\PictureViewer\PictureViewer\obj\Release\PictureViewer.Properties.Resources.resources
+D:\MyProjects\Cpp\PictureViewer\PictureViewer\obj\Release\PictureViewer.csproj.GenerateResource.Cache
+D:\MyProjects\Cpp\PictureViewer\PictureViewer\obj\Release\PictureViewer.exe
+D:\MyProjects\Cpp\PictureViewer\PictureViewer\obj\Release\PictureViewer.pdb
